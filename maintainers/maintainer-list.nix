@@ -15085,6 +15085,12 @@
     githubId = 39039420;
     name = "Quinn Dougherty";
   };
+  QuoteNat = {
+    email = "quotenat-git@pm.me";
+    github = "QuoteNat";
+    githubId = 35079138;
+    name = "QuoteNat";
+  };
   qyliss = {
     email = "hi@alyssa.is";
     github = "alyssais";
